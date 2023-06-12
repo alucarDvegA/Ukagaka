@@ -1,5 +1,4 @@
 # Ukagaka（編集中）
-# PersonalAssistant
 
 https://github.com/alucarDvegA/PersonalAssistant/assets/127037666/165cadb3-6c65-438d-bed5-cb49acd1aaa4
 <!-- 
