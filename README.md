@@ -1,9 +1,5 @@
 # Ukagaka（編集中）
-
-https://github.com/alucarDvegA/PersonalAssistant/assets/127037666/165cadb3-6c65-438d-bed5-cb49acd1aaa4
-<!-- 
-https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7-ab14-5dcb66938d62.mp4
--->
+[![代替えテキスト](https://github.com/alucarDvegA/Ukagaka/assets/127037666/eeab034c-8784-4e8b-8149-e11fcf6b84f7)]()
 
 ## ダウンロード方法
 <!-- 
